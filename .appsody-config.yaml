@@ -1,0 +1,2 @@
+project-name: cp4apps2
+stack: docker.io/kabanero/java-spring-boot2:0.3
